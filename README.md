@@ -2,6 +2,15 @@
 
 The aim of this project is to compare the performance implications of creating a `constexpr` object with automatic and static duration.
 [Nanobench](https://github.com/martinus/nanobench) was used for benchmarking.
+The results were produced on the machine with the following configuration:
+
+<blockquote>
+Processor: AMD Ryzen AI 7 PRO 350 w/ Radeon 860M (2.00 GHz)
+
+Installed RAM: 64.0 GB (63.2 GB usable)
+
+System type	64-bit operating system, x64-based processor
+</blockquote>
 
 ## Dependencies
 
