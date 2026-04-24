@@ -1,6 +1,6 @@
 # Benchmarking `static constexpr`
 
-The aim of this project is to compare the performance implications of creating a `constexpr` object with automatic and static duration.
+In the light of [Jason Turner's C++ Weekly Episode 315](https://youtu.be/IDQ0ng8RIqs?si=YDVZAIT4piGI8Kzq), I decided to compare the performance implications of creating a `constexpr` object with automatic and static duration using MSVC compiler.
 [Nanobench](https://github.com/martinus/nanobench) was used for benchmarking.
 The results were produced on the machine with the following configuration:
 
