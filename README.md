@@ -9,6 +9,8 @@ Processor: AMD Ryzen AI 7 PRO 350 w/ Radeon 860M (2.00 GHz)
 
 Installed RAM: 64.0 GB (63.2 GB usable)
 
+MSVC version: 14.44.35207
+
 System type	64-bit operating system, x64-based processor
 </blockquote>
 
